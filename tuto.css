@@ -27,9 +27,9 @@ h2{text-align: center;}
 .esquerdo{
     display:inline-block;
     color: white;
-   width: 250px;
+   width: auto;
    height: auto;
-   margin: 20px;
+   margin: auto;
    padding: 0px 20px 0px 10px;
    border: 2px solid black;
    text-align: justify;
@@ -41,9 +41,9 @@ h2{text-align: center;}
 .direito{
     display:inline-block;
     color: white;
-   width: 250px;
+   width: auto;
    height: auto;
-   margin: 20px;
+   margin: auto;
    padding: 0px 20px 0px 10px;
    border: 2px solid black;
    text-align: justify;
@@ -55,9 +55,9 @@ h2{text-align: center;}
 .esq{
     display:inline-block;
     color: white;
-   width: 250px;
+   width: auto;
    height: auto;
-   margin: 20px;
+   margin: auto;
    padding: 0px 20px 0px 10px;
    border: 2px solid black;
    text-align: justify;
@@ -80,9 +80,9 @@ h2{text-align: center;}
 }
 .outro{
     color: white;
-   width: 250px;
+   width: auto;
    height: auto;
-   margin: 20px;
+   margin: auto;
    padding: 0px 20px 0px 10px;
    border: 2px solid black;
    text-align: justify;
@@ -95,9 +95,9 @@ h2{text-align: center;}
 .ult{
     display:inline-block;
     color: white;
-   width: 250px;
+   width: auto;
    height: auto;
-   margin: 20px;
+   margin: auto;
    padding: 0px 20px 0px 10px;
    border: 2px solid black;
    text-align: justify;
