@@ -129,7 +129,7 @@ h2{text-align: center;}
  h1{
    color: white;
    width: auto;
-   height: 100px;
+   height: auto;
    margin: auto;
    padding: 25px 500px 0px 500px;
    border: 2px solid black;
